@@ -9,7 +9,8 @@ def Song.genres
   #= ["Rap","Pop"]
 end
 
-Song
+Song.genre_count
+end
 
 
   
