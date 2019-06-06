@@ -6,7 +6,8 @@ class Song
 end
 
 def Song.genres 
-  #= [""]
+  #= ["Rap","Pop"]
+end
   
   
 
